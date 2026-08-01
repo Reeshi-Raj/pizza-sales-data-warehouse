@@ -1,0 +1,3 @@
+create database pizza_sales_project;
+
+use pizza_sales_project
